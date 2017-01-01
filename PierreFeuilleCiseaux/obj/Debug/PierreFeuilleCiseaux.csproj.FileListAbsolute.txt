@@ -1,0 +1,6 @@
+c:\users\c3dric\documents\visual studio 2015\Projects\PierreFeuilleCiseaux\PierreFeuilleCiseaux\bin\Debug\PierreFeuilleCiseaux.exe.config
+c:\users\c3dric\documents\visual studio 2015\Projects\PierreFeuilleCiseaux\PierreFeuilleCiseaux\bin\Debug\PierreFeuilleCiseaux.exe
+c:\users\c3dric\documents\visual studio 2015\Projects\PierreFeuilleCiseaux\PierreFeuilleCiseaux\bin\Debug\PierreFeuilleCiseaux.pdb
+c:\users\c3dric\documents\visual studio 2015\Projects\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\PierreFeuilleCiseaux.csprojResolveAssemblyReference.cache
+c:\users\c3dric\documents\visual studio 2015\Projects\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\PierreFeuilleCiseaux.exe
+c:\users\c3dric\documents\visual studio 2015\Projects\PierreFeuilleCiseaux\PierreFeuilleCiseaux\obj\Debug\PierreFeuilleCiseaux.pdb
